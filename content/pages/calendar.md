@@ -4,19 +4,144 @@ title: Calendar
 uid: 04ae7f93-5841-cb46-bf2f-d15576b864f7
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| **1-3** | **Prelude: Introduction and Review of Unified Engineering Thermodynamics** |
-| **4-13** | **The Second Law of Thermodynamics** |
-| 4-6 | Background to the Second Law of Thermodynamics |
-| 7-9 | The Second Law of Thermodynamics |
-| 10-13 | Applications of the Second Law |
-| **14-26** | **Applications of Thermodynamics to Engineering Systems** |
-| 14-19 | Gas Power and Propulsion Cycles |
-| 20-23 | Power Cycles with Two-Phase Media (Vapor Power Cycles) |
-| 24-26 | Introduction to Thermochemistry |
-| **27-37** | **Fundamentals of Heat Transfer** |
-| 27-29 | Introduction to Conduction Heat Transfer |
-| 30-32 | Introduction to Convection Heat Transfer |
-| 33-34 | Applications of the Concepts: Heat Exchangers |
-| 35-37 | Introduction to Thermal Radiation and Radiation Heat Transfer
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**1-3**
+{{< tdclose >}}
+{{< tdopen >}}
+**Prelude: Introduction and Review of Unified Engineering Thermodynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**4-13**
+{{< tdclose >}}
+{{< tdopen >}}
+**The Second Law of Thermodynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-6
+{{< tdclose >}}
+{{< tdopen >}}
+Background to the Second Law of Thermodynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-9
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Law of Thermodynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-13
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the Second Law
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**14-26**
+{{< tdclose >}}
+{{< tdopen >}}
+**Applications of Thermodynamics to Engineering Systems**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-19
+{{< tdclose >}}
+{{< tdopen >}}
+Gas Power and Propulsion Cycles
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-23
+{{< tdclose >}}
+{{< tdopen >}}
+Power Cycles with Two-Phase Media (Vapor Power Cycles)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-26
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Thermochemistry
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**27-37**
+{{< tdclose >}}
+{{< tdopen >}}
+**Fundamentals of Heat Transfer**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-29
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Conduction Heat Transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30-32
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Convection Heat Transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33-34
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the Concepts: Heat Exchangers
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35-37
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Thermal Radiation and Radiation Heat Transfer
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
